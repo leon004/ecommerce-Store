@@ -11,9 +11,14 @@ const NavbarActions = () => {
                     size={20}
                     color="white"
                 />
+                <span className="ml-2 text-sm font-medium text-white">
+                    0
+                </span>
             </Button>
         </div>
      );
 }
  
 export default NavbarActions;
+
+//7:53:25
