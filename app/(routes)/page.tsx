@@ -22,4 +22,3 @@ const HomePage = async () => {
 
 export default HomePage;
 
-//8:22:15
